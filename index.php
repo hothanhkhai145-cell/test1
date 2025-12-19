@@ -13,7 +13,7 @@ include 'login_handler.php';
 <body>
 <div id="templatemo_top_panel">
 	<div id="templatemo_top_section">
-		<div id="site_title"> chào</div> 
+		<div id="site_title"> hello </div> 
         <div id="site_tagline">Ho Thanh Khai - Thứ 6 ca 3</div>  
         <div id="templatemo_menu">
         	<ul>
