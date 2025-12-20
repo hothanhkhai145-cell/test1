@@ -13,8 +13,8 @@ include 'login_handler.php';
 <body>
 <div id="templatemo_top_panel">
 	<div id="templatemo_top_section">
-		<div id="site_title"> PM1_CUỐI KỲ_HỒ THÀNH KHẢI </div> 
-        <div id="site_tagline">Ho Thanh Khai - Thứ 6 ca 3</div>  
+		<div id="site_title"> TRANG </div> 
+        <div id="site_tagline">Ho Thanh Khai</div>  
         <div id="templatemo_menu">
         	<ul>
                 <li><a href="index.php" class="current">Home</a></li>
